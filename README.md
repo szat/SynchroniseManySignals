@@ -10,8 +10,6 @@ The main idea behind the algorithm is that each pairwise cropping (syncing) shou
 ### Prerequisites
 
 For this to run you need Matlab installed, along these toolboxes:
-	-image_toolbox
-	-statistics_toolbox
 	-signal_toolbox
 
 ## Author
